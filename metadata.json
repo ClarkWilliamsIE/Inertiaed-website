@@ -1,0 +1,7 @@
+{
+  "name": "Inertia Education",
+  "description": "A high-impact, minimalist landing page for Inertia Education. Focused on social change and educational equity in Aotearoa through mobile innovation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
