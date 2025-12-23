@@ -38,7 +38,7 @@ export const TEAM: TeamMember[] = [
     name: "Clark Williams",
     role: "Founder & Project Lead",
     bio: "Visionary educator with 10 years in STEAM, focused on disrupting educational inequity through mobile innovation.",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=400&auto=format&fit=crop"
+    image: "public/images/Clark.png"
   },
   {
     name: "Irihāpeti Mahuika",
